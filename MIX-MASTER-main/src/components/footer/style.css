@@ -1,0 +1,88 @@
+.container {
+    background: var(--PRIMARY-BLACK, #0f0b33);
+    display: flex;
+    padding: 35px 50px;
+  }
+  .secoundconatiner {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly !important;
+    align-items: center;
+  }
+  
+  .typoone {
+    color: var(--Gray-500, #adb9c7);
+    font-family: Poppins;
+    font-size: 14px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px !important;
+    width: 240px;
+    margin-bottom: 25px !important;
+  }
+  
+  .typotwo {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    text-transform: capitalize;
+  }
+  
+  .lasttypo {
+    color: var(--White, #ffffffb0);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .faqtypo {
+    color: var(--Gray-500, #adb9c7);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px !important;
+  }
+  .typotwo {
+    color: var(--Gray-500, #adb9c7);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+  }
+  .legaltypo {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 22px !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    line-height: 42px !important;
+    text-transform: capitalize;
+  }
+  .links {
+    text-decoration: none !important;
+  }
+  .legaltypolast {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 22px !important;
+    font-style: normal;
+    font-weight: 700 !important;
+    line-height: 56px !important;
+    text-transform: capitalize;
+  }
+  .lastbox {
+    height: 125px !important;
+    justify-content: center;
+  }
+  .iconstyle {
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
